@@ -22,3 +22,5 @@ My name is Pedro, and:
 ![Python](https://img.shields.io/badge/-Python-fff?&logo=Python)
 ![Node.JS](https://img.shields.io/badge/-Node.JS-fff?&logo=Node.JS)
 ![MySQL](https://img.shields.io/badge/-MySQL-fff?&logo=mysql)
+![React](https://img.shields.io/badge/-React-fff?&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-fff?&logo=Redux&logoColor=purple)
