@@ -9,7 +9,6 @@ My name is Pedro, and:
 * I'm currently pursuing a degree in Telecommunications Engineering;
 * I'm passionate by tech, just like you :) 
 
-- 🔭 I’m currently working on [Mandalorian](https://github.com/PedroPretto/mandalorian) and [Lugh](https://github.com/Otoru/Lugh)
 - 🌱 I’m currently learning TypeScript and Desing Patterns
 - 😄 Pronouns: he/him
 - 📧 Contact: pedropretto18@gmail.com // Pedro Martins at LinkedIn
