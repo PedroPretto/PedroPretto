@@ -4,12 +4,10 @@ Hi! Welcome to my GitHub profile!
 
 My name is Pedro, and:
 
-* I'm 21 years old;
+* I'm 22 years old;
 * I'm from Brazil;
-* I'm currently pursuing a degree in Telecommunications Engineering;
 * I'm passionate by tech, just like you :) 
 
-- 🌱 I’m currently learning TypeScript and Desing Patterns
 - 😄 Pronouns: he/him
 - 📧 Contact: pedropretto18@gmail.com // Pedro Martins at LinkedIn
 - ⚡ Fun fact: I really enjoy coffe, video games and all that nerdy stuff you see around here :P
