@@ -4,7 +4,7 @@ Hi! Welcome to my GitHub profile!
 
 My name is Pedro, and:
 
-* I'm 22 years old;
+* I'm 23 years old;
 * I'm from Brazil;
 * I'm passionate by tech, just like you :) 
 
